@@ -17,6 +17,7 @@ function render() {
 
 }),
 "./src/render.css": (function (module, __unused_webpack_exports, __webpack_require__) {
+module.hot.accept();
 __webpack_require__.r(module.exports = {});
 
 
